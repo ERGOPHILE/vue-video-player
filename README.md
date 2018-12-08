@@ -1,4 +1,4 @@
-# anmin-video
+# anmin-video 亲测可用地址可用可直接运行
 
 > A Vue.js project
 
